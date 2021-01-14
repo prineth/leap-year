@@ -2,7 +2,7 @@
 
 Normally we think,
 
-~ if(year % 4 == 0):
+ *if(year % 4 == 0):*
 
 this function is enough for that task. That's wrong.
 
